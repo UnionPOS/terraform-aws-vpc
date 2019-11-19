@@ -1,5 +1,5 @@
 variable "namespace" {
-  description = "Namespace (e.g. `cp` or `cloudposse`)"
+  description = "Namespace (e.g. `up` or `unionpos`)"
   type        = string
   default     = ""
 }
